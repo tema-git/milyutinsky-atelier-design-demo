@@ -1,0 +1,36 @@
+{
+  "brand": "Дом быта «Мультисервис»",
+  "short_brand": "Мультисервис",
+  "slug": "milyutinsky-atelier-design-demo",
+  "email": "andfad2018@bk.ru",
+  "phone": "+79251848067",
+  "phone_display": "+7 925 184-80-67",
+  "address": "Милютинский переулок, 18А, офис 2",
+  "city": "Москва",
+  "telegram": null,
+  "source_urls": [
+    "https://www.orgpage.ru/moskva/dom-byta-ip-potapenko-5543020.html",
+    "https://msk.spravka.city/company/dom-byta-1258",
+    "https://moscow.big-book-style.ru/prochee/"
+  ],
+  "contacted": false,
+  "spreadsheet_row": 28,
+  "sheet_status": "Не связывались",
+  "verified_on": "2026-10-30",
+  "email_evidence": "Exact business email on live company-authored Orgpage profile plus Spravka.City. Orgpage and BigBook corroborate current Milyutinsky18A address and9251848067 phone.",
+  "email_source_date": "2026-07",
+  "confidence": "medium",
+  "website_status": "Historical domain ремонт-одежды.москва is published in directory but DNS does not resolve on2026-10-30 forHTTPorHTTPS; no working replacement found.",
+  "caveats": [
+    "Existing spreadsheet name/address Покровка3/7с1 is stale: sameemail profile andoldSpravka.City description nowpointtoMilyutinsky18A.",
+    "Does have historical domain; currentactivewebsitecouldnotbeopened.",
+    "Mailbox deliverability not tested."
+  ],
+  "contacted_evidence": "Live Collaboration status Не связывались",
+  "template": "lepata-atelier-design-demo",
+  "template_commit": "2617d97431b663fa417961ffd5e7881d0bee6275",
+  "prepared_on": "2026-10-30",
+  "demo_only": true,
+  "data_submission": false,
+  "repository": "milyutinsky-atelier-design-demo"
+}
